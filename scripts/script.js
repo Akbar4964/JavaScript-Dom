@@ -17,11 +17,11 @@ function btnsClick(evt) {
   console.log("btnds");
 }
 
-function btnsClick1(evt) {
-  console.log("btns1");
+// function btnsClick1(evt) {
+//   console.log("btns1");
 
-  evt.stopPropagation();
-}
+//   evt.stopPropagation();
+// }
 // function btnsClick1(evt) {
 //   console.log("btns1");
 
