@@ -43,18 +43,18 @@ function btnsClick1(evt) {
 // function btnsClick1(evt) {
 //   console.log("btns1");
 
-//   evt.stopPropagation();
-// }function btnsClick1(evt) {
-//   console.log("btns1");
+  evt.stopPropagation();
+}function btnsClick1(evt) {
+  console.log("btns1");
 
-//   evt.stopPropagation();
-// }
-// function btnsClick1(evt) {
-//   console.log("btns1");
+  evt.stopPropagation();
+}
+function btnsClick1(evt) {
+  console.log("btns1");
 
-//   evt.stopPropagation();
-// }function btnsClick1(evt) {
-//   console.log("btns1");
+  evt.stopPropagation();
+}function btnsClick1(evt) {
+  console.log("btns1");
 
-//   evt.stopPropagation();
-// }
+  evt.stopPropagation();
+}
