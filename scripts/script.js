@@ -54,6 +54,7 @@ function btnsClick1(evt) {
 
 //   evt.stopPropagation();
 // }
+
 // function btnsClick1(evt) {
 //   console.log("btns1");
 
