@@ -9,3 +9,18 @@
   padding: 0 20px;
   margin: 0 auto;
 }
+
+.btns {
+  border: 1px solid red;
+  padding: 20px;
+}
+
+.btns1 {
+  border: 1px solid rgb(30, 0, 255);
+  padding: 20px;
+}
+
+.clicker {
+  border: 1px solid rgb(0, 255, 0);
+  padding: 20px;
+}
